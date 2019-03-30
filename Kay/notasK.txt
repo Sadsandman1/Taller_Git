@@ -10,10 +10,10 @@ git branch -d [nombre de la rama]git
 //////	////
 git checkout [rama 1]
 git merge[rama2]
-<<<<<<< HEAD
+
 zzzzzzzzzzzz
-=======
+
 
 HOLA
 QUE TAL 
->>>>>>> 059d259a543c4488df026ca60015c89bfa66cfbd
+
